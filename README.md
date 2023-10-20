@@ -27,8 +27,9 @@ My dream is to become a full stack developer 💻
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/119c3ba5-1e6b-4896-b37e-519c0b061fb2" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/39dc52bc-a328-4f59-829e-28871613d262" width="50" height="50">
 </details>
+ ### Projects I'm working on 💪
+  > Amharic language learning app Amlang:
+  > 
+  > While I was learning amharic (the national language of ethiopia) I was shocked by the lack of recources
+  > and I generally didn't like the feel of language learning apps.
 
-<details open>
-  <summary>Projects I'm working on 💪</summary>
-  * hello
-</details>
