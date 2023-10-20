@@ -11,9 +11,8 @@ My dream is to become a full stack developer
 
 <details>
  <summary>Languages and tools I'm familiar with 🛠️</summary>
-<picture>
-  <img alt="C" src="[![c++](https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9)](https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9)https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9">
-</picture>
+![c++](https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9)
+
 * C
 * C++
 * C#
