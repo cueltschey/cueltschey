@@ -25,4 +25,8 @@ My dream is to become a full stack developer 💻
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/576ae365-007a-4386-a9dc-193c77235348" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/5bb9e187-5420-439b-b1f2-4c3a97573678" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/119c3ba5-1e6b-4896-b37e-519c0b061fb2" width="50" height="50">
+
+  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/39dc52bc-a328-4f59-829e-28871613d262" width="50" height="50">
+  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/b4dcf814-b9f7-4356-9bb0-2d49429699bb" width="50" height="50">
+  <img src="" width="50" height="50">
 </details>
