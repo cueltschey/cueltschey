@@ -20,6 +20,17 @@ My dream is to become a full stack developer 💻
 > * The data is kept in firebase firestore and users are managed by firebase auth
 > * The UI is designed to be simple and open, allowing users to work at thier own pace with excercises and lessons to help learn
 > * I want the app to interface with Anki (flashcard software) and keep track of how much users study thier flashcards
+> * The app should give users a dashboard with study statistics
+>
+> **Digital assistant software _Cheron_**
+>
+> This software is supposed to interface with a simple arduino robot that will process audio commands. The end goal is
+> a customizable at home assistant that can search files and open applications
+>
+> * So far the hardware for Cheron is still being worked on
+> * The software can open applications and search for files using python
+> * Data is managed and stored locally on a SQLite database
+> * The chatroom reads input and updates the database automatically with user and Cheron messages
 
 <details open>
   <summary>Languages and tools I'm familiar with 🛠️</summary>
