@@ -10,9 +10,8 @@ My dream is to become a full stack developer 💻
 * Looking to collaborate 🤝
 * Learning Operating systems, Machine Learning, and Low Level Programming 🌱
 
-<details>
- <summary> ### Languages and tools I'm familiar with 🛠️</summary>
- <img src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9" width="50" height="50" link="https://cplusplus.com/doc/" a="https://cplusplus.com/doc/" href="https://cplusplus.com/doc/">
+  ### Languages and tools I'm familiar with 🛠️
+ [<img src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9" width="50" height="50">](https://cplusplus.com/doc/)
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/1ea54679-a22f-4562-86c0-088b0e5ffc0c width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/dab66d02-6c07-494c-9e92-c94dde2ed5c1" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/a296e028-8f86-4f2d-8494-e94329610732" width="50" height="50">
@@ -26,6 +25,4 @@ My dream is to become a full stack developer 💻
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/576ae365-007a-4386-a9dc-193c77235348" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/5bb9e187-5420-439b-b1f2-4c3a97573678" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/119c3ba5-1e6b-4896-b37e-519c0b061fb2" width="50" height="50">
-
-</details>
 
