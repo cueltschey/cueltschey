@@ -5,6 +5,10 @@
 I am trying to diversiy my skills by working on projects across different platforms and languages.
 My dream is to become a full stack developer
 
+* Looking for a coding job 🔭
+* Working on a cross platform language learning app called Amlang
+* Looking to collaborate 🤝
+
 ## Languages I'm familiar with 🗣️
 
 * C
