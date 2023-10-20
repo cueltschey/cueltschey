@@ -11,7 +11,7 @@ My dream is to become a full stack developer
 
 <details>
  <summary>Languages and tools I'm familiar with 🛠️</summary>
-<img src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9">
+<img src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9" width="50" height="50">
 
 * C
 * C++
