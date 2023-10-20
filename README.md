@@ -10,12 +10,15 @@ My dream is to become a full stack developer 💻
 * Looking to collaborate 🤝
 * Learning Operating systems, Machine Learning, and Low Level Programming 🌱
 
-### Projects I'm working on 💪
-> Amharic language learning app Amlang:
+## Projects I'm working on 💪
+> ###Amharic language learning app Amlang:
 > 
 > While I was learning amharic (the national language of ethiopia) I was shocked by the lack of recources
 > and I generally didn't like the feel of language learning apps.
-> * I 
+> * The end goal is to have a website, apps for apple and android, and a windows net framework application
+> * The data is kept in firebase firestore and users are managed by firebase auth
+> * The UI is designed to be simple and open, allowing users to work at thier own pace with excercises and lessons to help learn
+> * I want the app to interface with Anki (flashcard software) and keep track of how much users study thier flashcards
 
 <details open>
   <summary>Languages and tools I'm familiar with 🛠️</summary>
