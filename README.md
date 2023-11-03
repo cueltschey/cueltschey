@@ -13,6 +13,18 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 
 ## Projects I'm working on 💪
 
+**Chrome Extension Word-Chad**
+> Primary language: Typescript
+>
+> I wanted to make a deploy a simple dictionary chome extension that can look up words and give
+> pronounciations. The end result turned out really well.
+>
+> * It can look up a highlighted word when you click the icon
+> * Gives definitions usages and pronounciation
+> * Workst seemlessly in chrome browser
+> * It will be deployed on the chrome store soon
+
+
 **Amharic language learning app _Amlang_:**
 > Primary Languages: Kotlin, Java
 >
