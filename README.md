@@ -11,7 +11,20 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 * Looking to collaborate 🤝
 * Learning Operating systems, Machine Learning, and Low Level Programming 🌱
 
-## Projects I'm working on 💪
+## Projects I'm most proud of 💪
+
+**Russian autocompleter**
+> Primary languages: C#, Python(just to make the databse), SQLite
+>
+> I needed an autocomplete bar for one of my other projects, so I got the idea to make my own
+> and use it as I needed. I made it to work with the russian alphabet (33 letters) but changing that
+> for other data is pretty simple.
+>
+> * Quickly gives a list of suggestions
+> * The suggestions can be selected with tab or click
+> * Works extremely fast using a Trie data structure
+> * Queries a database of 10,000 words (collected from webscraping)
+> * The end result is a very effecient autocomplete bar that can work well with any project
 
 **Chrome Extension Word-Chad**
 > Primary language: Typescript
