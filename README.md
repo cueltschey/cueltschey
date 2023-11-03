@@ -62,7 +62,7 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 > * The chatroom reads input and updates the database automatically with user and Cheron messages
 
 
-## Languages and tools I'm working with 🛠️
+## Languages and tools I've worked with 🛠️
 ### Proficient™️
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9" width="50" height="50">
  
@@ -85,5 +85,3 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/57a4be9b-1853-48fb-ac04-7b46367243ac" width="50" height="50">
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/5bb9e187-5420-439b-b1f2-4c3a97573678" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/119c3ba5-1e6b-4896-b37e-519c0b061fb2" width="50" height="50">
-
-
