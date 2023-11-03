@@ -55,7 +55,7 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/39dc52bc-a328-4f59-829e-28871613d262" width="50" height="50">
 
 ### Learning 📖
-<img src="https://github.com/cueltschey/cueltschey/assets/68715119/1ea54679-a22f-4562-86c0-088b0e5ffc0c width="50" height="50">
+<img src="https://github.com/cueltschey/cueltschey/assets/68715119/1ea54679-a22f-4562-86c0-088b0e5ffc0c" width="50" height="50">
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/aef6b352-244e-4832-9e62-6cc327a89db9" width="50" height="50">
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/57a4be9b-1853-48fb-ac04-7b46367243ac" width="50" height="50">
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/5bb9e187-5420-439b-b1f2-4c3a97573678" width="50" height="50">
