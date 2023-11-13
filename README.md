@@ -13,6 +13,19 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 
 ## Projects I'm most proud of 💪
 
+**Android Books Reader**
+> Primary languages: Kotlin Java
+>
+> I wanted to make an app that could store all the books I was reading in one place and
+> back up the files on the cloud. My solution was to make my own that could have the UI I wanted
+> and could save my files in case I lost my phone.
+>
+> * Uploads files of various types
+> * Allows for reading and downloading stored books
+> * Made sure the UI was appealing and simple
+> * Uses firebase auth to ensure collections stay private
+> * Files accessible from any device
+
 **Russian autocompleter**
 > Primary languages: C#, Python(just to make the databse), SQLite
 >
@@ -37,19 +50,6 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 > * Workst seemlessly in chrome browser
 > * It will be deployed on the chrome store soon
 
-
-**Amharic language learning app _Amlang_:**
-> Primary Languages: Kotlin, Java
->
-> While I was learning amharic (the national language of ethiopia) I was shocked by the lack of recources
-> and I generally didn't like the feel of language learning apps.
-> 
-> * The end goal is to have a website, apps for apple and android, and a windows net framework application
-> * The data is kept in firebase firestore and users are managed by firebase auth
-> * The UI is designed to be simple and open, allowing users to work at thier own pace with excercises and lessons to help learn
-> * I want the app to interface with Anki (flashcard software) and keep track of how much users study thier flashcards
-> * The app should give users a dashboard with study statistics
->
 **Digital assistant software _Cheron_**
 >Primary languages: Python, C#
 >
