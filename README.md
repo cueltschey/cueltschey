@@ -64,7 +64,7 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 
 ## Languages and tools I've worked with 🛠️
 ### Proficient™️
- <img  href="https://cplusplus.com/" src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9" width="50" height="50">
+ <img src="https://github.com/cueltschey/cueltschey/assets/68715119/210578cc-8185-4e98-959f-b76ee47a34c9" width="50" height="50">
  
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/dab66d02-6c07-494c-9e92-c94dde2ed5c1" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/a296e028-8f86-4f2d-8494-e94329610732" width="50" height="50">
