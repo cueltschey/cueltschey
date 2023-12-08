@@ -2,7 +2,7 @@
 
 ## *Coding* is my passion, this is where I share it
 
-I am trying to diversify my skills by working on projects across different platforms and languages.
+Right now I am trying to diversify my skills by working on projects across different platforms and languages.
 My dream is to become a full stack developer 💻
 Learn more about me at my [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
 
@@ -12,6 +12,13 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 * Learning Operating systems, Machine Learning, and Low Level Programming 🌱
 
 ## Projects I'm most proud of 💪
+
+**Pong Clone**
+> Primary language: c++
+>
+> This project was my first attempt at building an actual application with c++. It turned out really well
+> * two players
+> * ball is hit back and forth at variable speed and direction
 
 **Android Books Reader**
 > Primary languages: Kotlin Java
