@@ -16,22 +16,9 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 **Pong Clone**
 > Primary language: c++
 >
-> This project was my first attempt at building an actual application with c++. It turned out really well
+> This project was my first attempt at building an actual application with c++. It turned out really well and it made me more interested in developing with c++ and c
 > * two players
-> * ball is hit back and forth at variable speed and direction
-
-**Android Books Reader**
-> Primary languages: Kotlin Java
->
-> I wanted to make an app that could store all the books I was reading in one place and
-> back up the files on the cloud. My solution was to make my own that could have the UI I wanted
-> and could save my files in case I lost my phone.
->
-> * Uploads files of various types
-> * Allows for reading and downloading stored books
-> * Made sure the UI was appealing and simple
-> * Uses firebase auth to ensure collections stay private
-> * Files accessible from any device
+> * ball is hit back and forth at variable speed and direction.
 
 **Russian autocompleter**
 > Primary languages: C#, Python(just to make the databse), SQLite
