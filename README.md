@@ -1,12 +1,9 @@
 # 👋 I'm Charles Ueltschey
 
-## *Coding* is my passion, this is where I share it
+## *Coding* is my passion, this is where I share it 💻
 
-Right now I am trying to diversify my skills by working on projects across different platforms and languages.
-My dream is to become a full stack developer 💻
 Learn more about me at my [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
 
-* Looking for a coding job 🔭
 * Working on lots of projects ⚒️
 * Looking to collaborate 🤝
 * Learning Operating systems, Machine Learning, and Low Level Programming 🌱
