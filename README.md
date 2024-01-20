@@ -30,7 +30,7 @@ Learn more about me at my [portfolio website](https://charles-ueltschey-portfoli
 > * Queries a database of 10,000 words (collected from webscraping)
 > * The end result is a very effecient autocomplete bar that can work well with any project
 
-**Chrome Extension Word-Chad**
+**Dictionary Chrome Extension**
 > Primary language: Typescript
 >
 > I wanted to make a deploy a simple dictionary chome extension that can look up words and give
