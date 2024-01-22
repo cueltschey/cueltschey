@@ -27,12 +27,10 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 > * The end result is a very effecient autocomplete bar that can work well with any project
 
 **Dictionary Chrome Extension**
-> Primary language: Typescript
->
 > I wanted to make a deploy a simple dictionary chome extension that can look up words and give
-> pronounciations. The end result turned out really well.
+> pronounciations in the browser. I made the app using react and typescript, then published to the chrome app store.
 >
-> * It can look up a highlighted word when you click the icon
+> * Looks up a highlighted word in the merriam-webster dictionary when you click the icon
 > * Gives definitions usages and pronounciation
 > * Workst seemlessly in chrome browser
 > * It will be deployed on the chrome store soon
