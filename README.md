@@ -12,19 +12,14 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 ## Projects I'm most proud of 💪
 
 **Pong Clone**
-> Primary language: c++
->
-> This project was my first attempt at building an actual application with c++. It turned out really well and it made me more interested in developing with c++ and c
-> * two players
-> * ball is hit back and forth at variable speed and direction.
+> This project is a simple clone of the classic game pong. It uses the windows API to make a simple game using c++. No external frameworks or tools were used.
+> * two players and scoring
+> * ball is hit back and forth at variable speed and direction using calculus to give a natural feel.
+> * compiled with Win32 library
 
 **Russian autocompleter**
-> Primary languages: C#, Python(just to make the databse), SQLite
->
 > I needed an autocomplete bar for one of my other projects, so I got the idea to make my own
-> and use it as I needed. I made it to work with the russian alphabet (33 letters) but changing that
-> for other data is pretty simple.
->
+> and use it as I needed. It works using a Trie of words with cyrillic characters, formed from a database of russian words.
 > * Quickly gives a list of suggestions
 > * The suggestions can be selected with tab or click
 > * Works extremely fast using a Trie data structure
