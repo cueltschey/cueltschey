@@ -6,9 +6,8 @@ _________ .__                 .__                   ____ ___       .__   __     
  \______  /___|  (____  /__|  |____/\___  >____  > |______/  \___  >____/__| /____  >\___  >___|  /\___  > ____|
         \/     \/     \/                \/     \/                \/               \/     \/     \/     \/\/     
 ```
-## *Coding* is my passion, this is where I share it 💻
 
-Learn more about me at my [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
+Learn more about my work here: [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
 
 ## Projects I'm most proud of 💪
 
