@@ -1,10 +1,11 @@
+```
   _________ .__                 .__                 
 \_   ___ \|  |__ _____ _______|  |   ____   ______
 /    \  \/|  |  \\__  \\_  __ \  | _/ __ \ /  ___/
 \     \___|   Y  \/ __ \|  | \/  |_\  ___/ \___ \ 
  \______  /___|  (____  /__|  |____/\___  >____  >
         \/     \/     \/                \/     \/ 
-
+```
 ## *Coding* is my passion, this is where I share it 💻
 
 Learn more about me at my [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
