@@ -36,12 +36,8 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 > * It will be deployed on the chrome store soon
 
 **Digital assistant software _Cheron_**
->Primary languages: Python, C#
->
-> This software is supposed to interface with a simple arduino robot that will process audio commands. The end goal is
-> a customizable at home assistant that can search files and open applications
->
-> * So far the hardware for Cheron is still being worked on
+> This software is designed to interface with a simple arduino robot that will process audio commands, but can also work with the keyboard.
+>  The user types in a given command, which allows for automatic application opening, file search, and searching in the browser.
 > * The software can open applications and search for files using python
 > * Data is managed and stored locally on a SQLite database
 > * The chatroom reads input and updates the database automatically with user and Cheron messages
