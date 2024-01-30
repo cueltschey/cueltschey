@@ -38,9 +38,19 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 **Digital assistant software _Cheron_**
 > This software is designed to interface with a simple arduino robot that will process audio commands, but can also work with the keyboard.
 >  The user types in a given command, which allows for automatic application opening, file search, and searching in the browser.
+> 
 > * The software can open applications and search for files using python
 > * Data is managed and stored locally on a SQLite database
 > * The chatroom reads input and updates the database automatically with user and Cheron messages
+
+**Full Stack Ecommmerce Website**
+> I didi this project to give myself a better understanding of web development and backend creation. It was made using
+> Node.js and Express.js with a React frontend and a SQLite3 backend. Addidiotnally, this was my first project to have a
+> published docker container. [container link](https://hub.docker.com/r/chaseuelt/lawn-depot)
+>
+> * Allows for the registration and login of users, utilizing cookies to keep users signed in.
+> * Manages a large number of products, with images prices and descriptions
+> * Allows users to view and edit their cart
 
 
 ## Languages and tools I've worked with 🛠️
