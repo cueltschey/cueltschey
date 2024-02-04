@@ -44,7 +44,7 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 > * The chatroom reads input and updates the database automatically with user and Cheron messages
 
 **Full Stack Ecommmerce Website**
-> I didi this project to give myself a better understanding of web development and backend creation. It was made using
+> I did this project to give myself a better understanding of web development and backend creation. It was made using
 > Node.js and Express.js with a React frontend and a SQLite3 backend. Addidiotnally, this was my first project to have a
 > published docker container. [container link](https://hub.docker.com/r/chaseuelt/lawn-depot)
 >
