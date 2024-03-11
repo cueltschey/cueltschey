@@ -9,20 +9,26 @@ _________ .__                 .__                   ____ ___       .__   __     
 
 Learn more about my work here: [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
 
-## Projects I'm most proud of 💪
+## My most successfu; projects
+
+**MicrobeNet**
+> A convolutional neural network designed to categorize microorganisms given image data.
+> Trained with around 500,000 images, it is designed to compensate for the smaller dataset by using a tree of networks in conjunction
+> * A tree of models are used, going from phylum identifiers down to genus.
+> * The networks in different layers are give pre-convolved images that help improve performance
+> * Through trial and error scharr convolution was shown to be most effective for this application
+
 
 **Pong Clone**
-> This project is a simple clone of the classic game pong. It uses the windows API to make a simple game using c++. No external frameworks or tools were used.
+> A simple clone of the classic game pong. It uses the windows API to make a simple game using c++. No external frameworks or tools were used.
 > * two players and scoring
 > * ball is hit back and forth at variable speed and direction using calculus to give a natural feel.
 > * compiled with Win32 library
 
 **Russian autocompleter**
-> I needed an autocomplete bar for one of my other projects, so I got the idea to make my own
-> and use it as I needed. It works using a Trie of words with cyrillic characters, formed from a database of russian words.
-> * Quickly gives a list of suggestions
-> * The suggestions can be selected with tab or click
-> * Works extremely fast using a Trie data structure
+> An autocompletion bar that uses datastructures and algorithms to speed up the process of giving typing suggestions.
+> * Gives a list of suggestions based on an input database
+> * Works extremely fast (linear time complexity) using a Trie data structure
 > * Queries a database of 10,000 words (collected from webscraping)
 > * The end result is a very effecient autocomplete bar that can work well with any project
 
