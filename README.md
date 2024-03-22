@@ -9,7 +9,7 @@ _________ .__                 .__                   ____ ___       .__   __     
 
 Learn more about my work here: [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
 
-## My most successfu; projects
+## My most successful projects
 
 **MicrobeNet**
 > A convolutional neural network designed to categorize microorganisms given image data.
