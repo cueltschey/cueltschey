@@ -11,6 +11,13 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 
 ## My most successful projects
 
+**GitHelp**
+> A command line tool to aid in cloning and creating repos.
+> * Can clone any repo
+> * Lists a users repositories for selection
+> * Very responsive and effecient GUI from ncurses C library
+> * Repos can be created
+
 **MicrobeNet**
 > A convolutional neural network designed to categorize microorganisms given image data.
 > Trained with around 500,000 images, it is designed to compensate for the smaller dataset by using a tree of networks in conjunction
