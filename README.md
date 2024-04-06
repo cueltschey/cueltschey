@@ -32,7 +32,7 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 > * ball is hit back and forth at variable speed and direction using calculus to give a natural feel.
 > * compiled with Win32 library
 
-**Russian autocompleter**
+**Russian autocomplete bar**
 > An autocompletion bar that uses datastructures and algorithms to speed up the process of giving typing suggestions.
 > * Gives a list of suggestions based on an input database
 > * Works extremely fast (linear time complexity) using a Trie data structure
