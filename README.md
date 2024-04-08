@@ -11,12 +11,13 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 
 ## My most successful projects
 
-**GitHelp**
+**GitGet**
 > A command line tool to aid in cloning and creating repos.
 > * Can clone any repo
 > * Lists a users repositories for selection
 > * Very responsive and effecient GUI from ncurses C library
 > * Repos can be created
+> * Can be installed as a debian package
 
 **MicrobeNet**
 > A convolutional neural network designed to categorize microorganisms given image data.
