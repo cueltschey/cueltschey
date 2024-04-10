@@ -47,7 +47,7 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 > * Looks up a highlighted word in the merriam-webster dictionary when you click the icon
 > * Gives definitions usages and pronounciation
 > * Workst seemlessly in chrome browser
-> * It will be deployed on the chrome store soon
+> * Deployed on the chrome store [here](https://chromewebstore.google.com/detail/word-chad/eaonfbgaekplicnhojipciplmafhlceg)
 
 **Digital assistant software _Cheron_**
 > This software is designed to interface with a simple arduino robot that will process audio commands, but can also work with the keyboard.
