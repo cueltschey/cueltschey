@@ -23,7 +23,7 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 > A convolutional neural network designed to categorize microorganisms given image data.
 > Trained with around 500,000 images, it is designed to compensate for the smaller dataset by using a tree of networks in conjunction
 > * A tree of models are used, going from phylum identifiers down to genus.
-> * The networks in different layers are give pre-convolved images that help improve performance
+> * The networks in different layers are give pre-convolved images that help improve performance, allowing for better identification 
 > * Through trial and error scharr convolution was shown to be most effective for this application
 
 
