@@ -90,3 +90,5 @@ Learn more about my work here: [portfolio website](https://charles-ueltschey-por
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/57a4be9b-1853-48fb-ac04-7b46367243ac" width="50" height="50">
 <img src="https://github.com/cueltschey/cueltschey/assets/68715119/5bb9e187-5420-439b-b1f2-4c3a97573678" width="50" height="50">
  <img src="https://github.com/cueltschey/cueltschey/assets/68715119/119c3ba5-1e6b-4896-b37e-519c0b061fb2" width="50" height="50">
+
+<img src="https://raw.githubusercontent.com/cueltschey/cueltschey/master/images/notepad.gif" height="30" />
