@@ -7,7 +7,13 @@ _________ .__                 .__                   ____ ___       .__   __     
         \/     \/     \/                \/     \/                \/               \/     \/     \/     \/\/     
 ```
 
+<table>
+<tr>
+<td>
 [portfolio website](https://charles-ueltschey-portfolio.netlify.app/)
-
+</td>
+<td>
 [project overview](./projects.md)
-
+</td>
+</tr>
+</table>
