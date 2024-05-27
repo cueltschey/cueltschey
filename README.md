@@ -7,6 +7,6 @@ _________ .__                 .__                   ____ ___       .__   __     
         \/     \/     \/                \/     \/                \/               \/     \/     \/     \/\/     
 ```
 
-| Link Description | Link URL |
-|------------------|----------|
-| [portfolio website](https://charles-ueltschey-portfolio.netlify.app/) | [project overview](./projects.md) |
+| Portfolio Website | Projects Overview |
+|:------------------:|:----------:|
+| [-->🌎<--](https://charles-ueltschey-portfolio.netlify.app/) | [-->🔍<--](./projects.md) |
