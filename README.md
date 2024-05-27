@@ -7,12 +7,14 @@ _________ .__                 .__                   ____ ___       .__   __     
         \/     \/     \/                \/     \/                \/               \/     \/     \/     \/\/     
 ```
 
-| Portfolio Website | Projects Overview | Stats | Languages |
-|:------------------:|:----------:| :-----------: | :-----------: |
-| [-->🌎<--](https://charles-ueltschey-portfolio.netlify.app/) | [-->🔍<--](./projects.md) | <a href="https://github.com/cueltschey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cueltschey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/cueltschey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cueltschey&layout=compact&theme=buefy&hide_border=true" /></a> |
+| Portfolio Website | Projects Overview |
+|:------------------:|:----------:|
+| [-->🌎<--](https://charles-ueltschey-portfolio.netlify.app/) | [-->🔍<--](./projects.md) |
 
-**My Interests:**
-- 🐧 &nbsp; Linux
+### 🎓 My Interests:
+- 🐧 &nbsp; linux
+- 👨‍💻 &nbsp; assembly
+- 📦 &nbsp; containerization
 - 🇦 &nbsp; LFS / arch
 - 💽 &nbsp; low level programming
 - 📡 &nbsp; wireless communications
