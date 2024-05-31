@@ -16,7 +16,6 @@ _________ .__                 .__                   ____ ___       .__   __     
 - 👨‍💻 &nbsp; assembly
 - 📦 &nbsp; containerization
 - 🇦 &nbsp; LFS / arch
-- 💽 &nbsp; low level programming
 - 📡 &nbsp; wireless communications
 - 🔒 &nbsp; Cyber Security
 
