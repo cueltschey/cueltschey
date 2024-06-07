@@ -15,8 +15,7 @@ _________ .__                 .__                   ____ ___       .__   __     
 - 🐧 &nbsp; linux
 - 👨‍💻 &nbsp; assembly
 - 📦 &nbsp; containerization
-- 🇦 &nbsp; LFS / arch
-- 📡 &nbsp; wireless communications
+- 📡 &nbsp; software defined radio
 - 🔒 &nbsp; Cyber Security
 
 ### 🌟 Languages and Tools:
