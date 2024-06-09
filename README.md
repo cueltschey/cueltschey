@@ -17,6 +17,7 @@ _________ .__                 .__                   ____ ___       .__   __     
 - 📦 &nbsp; containerization
 - 📡 &nbsp; software defined radio
 - 🔒 &nbsp; Cyber Security
+- 💾 &nbsp; Operating Systems
 
 ### 🌟 Languages and Tools:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
