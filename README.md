@@ -44,3 +44,6 @@
                 ||----w |                                                 ||w--||
                 ||     ||            \|/                  \|/
 </pre>
+
+
+<img src="https://raw.githubusercontent.com/cueltschey/cueltschey/master/images/notepad.gif" alt="Site created with Notepad" height="50" />
