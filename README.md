@@ -13,15 +13,6 @@
 |:------------------:|:----------:|
 | [-->🌎<--](https://charles-ueltschey-portfolio.netlify.app/) | [-->🔍<--](./projects.md) |
 
-### 🎓 My Interests:
-- 🐧 &nbsp; linux
-- 👨‍💻 &nbsp; assembly
-- 📦 &nbsp; containerization
-- 📡 &nbsp; software defined radio
-- 🔒 &nbsp; Cyber Security
-- 💾 &nbsp; Operating Systems
-
-### 🌟 Languages and Tools:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.gnu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" align="left" alt="git" height='42px'/> </a>
 <a href="[https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" align="left" alt="git" height='42px'/> </a>
