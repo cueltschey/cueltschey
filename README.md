@@ -8,8 +8,7 @@
 ```
 
 
-[Portfolio Website](https://charles-ueltschey-portfolio.netlify.app/) | 
-[Projects overview](./projects.md)
+[Portfolio Website](https://charles-ueltschey-portfolio.netlify.app/)
 <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.gnu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" align="left" alt="git" height='42px'/> </a>
