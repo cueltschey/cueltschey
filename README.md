@@ -7,6 +7,10 @@
  *   .  *  *   .   *          *       .           *     / *  *\
 ```
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 [Portfolio Website](https://charles-ueltschey-portfolio.netlify.app/)
 <br>
