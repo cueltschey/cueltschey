@@ -25,7 +25,11 @@ Charles Ueltschey - aspiring
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         1 hr 25 mins    ██████████████▒░░░░░░░░░░   57.02 %
+Markdown     29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+CSS          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Lua          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
