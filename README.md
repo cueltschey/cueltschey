@@ -8,7 +8,7 @@ Charles Ueltschey - aspiring
 .     . * .. *           .   .  *        . * . *         |*  |   *
  *   .  *  *   .   *          *       .           *     / *  *\
 ```
-<br>
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.gnu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" align="left" alt="git" height='42px'/> </a>
 <a href="[https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" align="left" alt="git" height='42px'/> </a>
@@ -20,8 +20,8 @@ Charles Ueltschey - aspiring
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://golang.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<br><br/>
 
+<br></br>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -34,4 +34,4 @@ JSON         6 mins          █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Learn more: [my website](https://charles-ueltschey-portfolio.netlify.app/)
+Learn more: [cueltschey.com](https://cueltschey.com)
