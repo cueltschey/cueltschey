@@ -22,10 +22,10 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Python        3 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   35.16 %
-Markdown      2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-HTML          1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Docker        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Python        2 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Markdown      1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+HTML          1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Bash          46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
 ```
 
 <!--END_SECTION:waka-->
