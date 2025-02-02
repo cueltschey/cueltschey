@@ -22,11 +22,11 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           8 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   36.28 %
-JavaScript         5 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-Lua                2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Python             1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Rust               1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Markdown           8 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
+JavaScript         5 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
+Lua                1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+reStructuredText   1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Python             1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
