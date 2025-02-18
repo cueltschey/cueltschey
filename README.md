@@ -22,11 +22,11 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-C++                8 hrs 24 mins   ████████████████░░░░░░░░░   63.47 %
-Markdown           2 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-Other              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-ObjectPascal       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Makefile           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+C++                7 hrs 41 mins   ███████████████░░░░░░░░░░   60.63 %
+Markdown           3 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
+ObjectPascal       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Makefile           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
