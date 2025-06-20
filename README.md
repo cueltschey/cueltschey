@@ -22,10 +22,8 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   47 mins         ████████████████▒░░░░░░░░   64.85 %
-Text       11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-CMake      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-conf       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Markdown   24 mins         █████████████████░░░░░░░░   68.48 %
+Text       11 mins         ████████░░░░░░░░░░░░░░░░░   31.52 %
 ```
 
 <!--END_SECTION:waka-->
