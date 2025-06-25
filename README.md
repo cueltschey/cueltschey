@@ -22,7 +22,10 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████████   100.00 %
+Bash       33 mins         ████████████▒░░░░░░░░░░░░   49.33 %
+Markdown   21 mins         ████████░░░░░░░░░░░░░░░░░   31.50 %
+Docker     10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
