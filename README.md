@@ -22,8 +22,7 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Markdown   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
