@@ -22,7 +22,8 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-INI   6 mins          █████████████████████████   100.00 %
+INI        6 mins          ████████████████████████▓   98.97 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
