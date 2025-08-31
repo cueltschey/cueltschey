@@ -22,11 +22,11 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           6 hrs 56 mins   █████████████▒░░░░░░░░░░░   53.81 %
-HTML               3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-CSS                40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Python             39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-openvpn            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown           7 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.34 %
+HTML               3 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Python             1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+CSS                50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+reStructuredText   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
