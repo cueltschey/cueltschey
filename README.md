@@ -22,11 +22,11 @@ This Week's Summary
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   6 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-HTML                       3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-JavaScript                 3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Go                         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-CSS                        2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Markdown                   6 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+Go                         3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+JavaScript                 3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+HTML                       2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+CSS                        2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
 ```
 
 <!--END_SECTION:waka-->
