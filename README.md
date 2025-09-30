@@ -1,5 +1,5 @@
+## Charles Ueltschey
 ```
-Charles Ueltschey - aspiring
    *        .             .                         .   * 
  _   .   *   .   _ _ _    .    *            .      .      /\    *        
 | |  ()  _      | | | ()__  _ * _  ||   *     *         _/_*\_ . 
@@ -16,17 +16,10 @@ Charles Ueltschey - aspiring
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-
 <br></br>
-This Week's Summary
-<!--START_SECTION:waka-->
 
-```txt
-Markdown           3 hrs 53 mins   █████████████████▓░░░░░░░   70.54 %
-Python             32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-reStructuredText   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-```
-
-<!--END_SECTION:waka-->
+![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=cueltschey&show_icons=true&theme=city_lights)
 
 Learn more at [cueltschey.com](https://cueltschey.com)
+
+![Notepad.gif](./images/notepad.gif)
