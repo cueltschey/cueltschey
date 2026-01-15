@@ -18,8 +18,6 @@
 
 <br></br>
 
-![cueltschey github stats](https://github-readme-stats.vercel.app/api?username=cueltschey&show_icons=true&theme=city_lights)
-
 Learn more at [cueltschey.com](https://cueltschey.com)
 
 ![Notepad.gif](./images/notepad.gif)
