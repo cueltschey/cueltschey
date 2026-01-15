@@ -18,6 +18,6 @@
 
 <br></br>
 
-Learn more at [cueltschey.com](https://cueltschey.com)
+## Learn More! >> [cueltschey.com](https://cueltschey.com) <<
 
 ![Notepad.gif](./images/notepad.gif)
